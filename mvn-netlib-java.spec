@@ -4,7 +4,7 @@
 #
 Name     : mvn-netlib-java
 Version  : 1.1.2
-Release  : 3
+Release  : 4
 URL      : https://github.com/fommil/netlib-java/archive/1.1.2.tar.gz
 Source0  : https://github.com/fommil/netlib-java/archive/1.1.2.tar.gz
 Source1  : https://repo.maven.apache.org/maven2/com/github/fommil/netlib/all/1.1.2/all-1.1.2.pom
